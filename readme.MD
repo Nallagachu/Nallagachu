@@ -1,6 +1,9 @@
 
 # 💫 About Me:
-![Banner](./assets/1.png)
+
+
+![Banner](./assets/1)
+
 
 
 
