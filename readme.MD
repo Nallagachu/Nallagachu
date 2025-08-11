@@ -1,6 +1,7 @@
 
 # 💫 About Me:
-![Banner](./assets/banner.png)
+C:\devops\repos\Nallagachu\assets\banner.png
+
 
 **Nallagachu Durgababu**  
 Associate @ Lumen  
