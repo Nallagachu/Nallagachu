@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-![Banner](./assets/banner.png)
+![Banner](./assets/banner.1)
 
 
 **Nallagachu Durgababu**  
