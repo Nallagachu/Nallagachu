@@ -1,5 +1,7 @@
 
 # 💫 About Me:
+![Banner](./assets/banner.png)
+
 **Nallagachu Durgababu**  
 Associate @ Lumen  
 🚀 DevOps | SRE | Cloud Engineering | AWS & Azure | CI/CD | Kubernetes | Terraform  
