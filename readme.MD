@@ -1,5 +1,26 @@
 # 💫 About Me:
-Nallagachu Durgababu<br>Associate – @ Lumen<br>🚀 DevOps | SRE | Cloud Engineering | AWS & Azure | CI/CD | Kubernetes | Terraform<br><br>I’m a DevOps and Site Reliability Engineer on a mission to build systems that are fast, resilient, and effortless to maintain. At Lumen, I design and optimize cloud infrastructure, automate deployments to eliminate manual work, and apply SRE best practices to ensure maximum uptime and performance.<br><br>Hands-on with AWS, Azure, Kubernetes, Terraform, and CI/CD pipelines, I specialize in creating automation that not only streamlines operations but also empowers teams to innovate faster. My focus is on system reliability, scalability, and efficiency, backed by a passion for continuous learning and improvement.<br><br>Core Strengths:<br><br>Cloud Platforms: AWS, Azure<br><br>Infrastructure as Code: Terraform<br><br>Containers & Orchestration: Kubernetes, Docker<br><br>CI/CD: Jenkins, GitHub Actions, Azure DevOps<br><br>SRE Practices: Monitoring, Incident Response, Reliability Engineering<br><br>Automation: Infrastructure provisioning, deployment pipelines, self-healing systems<br><br>📌 Turning complexity into reliability — one automation at a time
+Nallagachu Durgababu  
+Associate @ Lumen  
+🚀 DevOps | SRE | Cloud Engineering | AWS & Azure | CI/CD | Kubernetes | Terraform  
+
+I’m a **DevOps and Site Reliability Engineer** driven to build systems that are **fast, resilient, and effortless to maintain**.  
+At Lumen, I **optimize cloud infrastructure**, **automate deployments** to remove manual effort,  
+and apply **SRE best practices** to deliver maximum uptime, performance, and scalability.  
+
+With hands-on expertise in **AWS, Azure, Kubernetes, Terraform, and CI/CD pipelines**,  
+I create automation that streamlines operations and empowers teams to innovate faster.  
+My focus is on **reliability, scalability, and efficiency**, backed by a passion for **continuous learning and improvement**.  
+
+---
+
+**🧰 Core Strengths**  
+- **Cloud Platforms:** AWS, Azure  
+- **Infrastructure as Code:** Terraform  
+- **Containers & Orchestration:** Kubernetes, Docker  
+- **CI/CD:** Jenkins, GitHub Actions, Azure DevOps  
+- **SRE Practices:** Monitoring, Incident Response, Reliability Engineering  
+- **Automation:** Infrastructure provisioning, deployment pipelines, self-healing systems  
+
 
 
 ## 🌐 Socials:
@@ -12,8 +33,7 @@ Nallagachu Durgababu<br>Associate – @ Lumen<br>🚀 DevOps | SRE | Cloud Engin
 ![](https://nirzak-streak-stats.vercel.app/?user=Nallagachu&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nallagachu&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nallagachu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
@@ -21,4 +41,3 @@ Nallagachu Durgababu<br>Associate – @ Lumen<br>🚀 DevOps | SRE | Cloud Engin
 ---
 [![](https://visitcount.itsvg.in/api?id=Nallagachu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
