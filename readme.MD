@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-C:\devops\repos\Nallagachu\assets\banner.png
+![Banner](./assets/banner.png)
 
 
 **Nallagachu Durgababu**  
