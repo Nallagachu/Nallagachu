@@ -15,6 +15,10 @@ At Lumen, I **optimize cloud infrastructure**, **automate deployments** to remov
 With hands-on expertise in **AWS, Azure, Kubernetes, Terraform, and CI/CD pipelines**, I create automation that streamlines operations and empowers teams to innovate faster.  
 My focus is on **reliability, scalability, and efficiency**, backed by a passion for **continuous learning and improvement**.  
 
+Exploring MLOps & AIOps to drive the future of intelligent automation
+
+🔹 Sharing knowledge through GitHub, LinkedIn, and Technical Blogs
+
 ---
 
 ## 🧰 Core Strengths
