@@ -3,7 +3,7 @@
 ![Banner](./assets/Sai.png)
 
 
-# **Hi I'm Nallagachu Durgababu**
+# **Hi I'm  Durgababu Nallagachu**
 
 
 
