@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-![Banner](./assets/sai.png)
+![Banner](./assets/Sai.png)
 
 
 # **Hi I'm Nallagachu Durgababu**
